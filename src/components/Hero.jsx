@@ -3,7 +3,7 @@ import heroImg from '../assets/image6.jpg'
 
 const Hero = () => {
   return (
-    <div className='w-full px-5 '>
+    <div>
       <nav className='flex justify-between items-center py-5 ' >
         <h1 className='text-xl font-bold md:text-2xl ' >Real Estate</h1>
         <ul className='flex items-center space-x-5 text-xs md:text-base ' >
